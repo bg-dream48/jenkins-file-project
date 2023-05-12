@@ -1,1 +1,1 @@
-print('my first project added+py added')
+print('my first project added+py added+tekrar yaptim')
